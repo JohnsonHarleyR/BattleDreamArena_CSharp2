@@ -7,7 +7,7 @@ namespace BattleArenaDream_CSharp2
 
 		// I re-typed most of the code that is the same as in the Java program, only a few things were 
 		// copy and paste like comments and a couple arrays. I did this for the sake of memorization
-		static void Main(string[] args)
+		static void Main()
 		{
 			// notes for reference
 			// Console.Read();
