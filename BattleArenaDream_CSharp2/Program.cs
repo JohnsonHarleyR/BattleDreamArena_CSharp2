@@ -75,7 +75,7 @@ namespace BattleArenaDream_CSharp2
 			Console.WriteLine("How strange, you look around to see you are standing in an arena with no crowd.");
 			Console.WriteLine("\nIs this real life or a dream?");
 
-			Console.WriteLine("Test");
+			// Console.WriteLine("Test");
 
 			// The dream runs an infinite loop so the user must close the app in order to exit.
 			while (true)
