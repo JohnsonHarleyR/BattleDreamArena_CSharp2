@@ -1,0 +1,5 @@
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\bin\Debug\netcoreapp3.1\publish\BattleArenaDream_CSharp2.exe
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\bin\Debug\netcoreapp3.1\publish\BattleArenaDream_CSharp2.dll
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\bin\Debug\netcoreapp3.1\publish\BattleArenaDream_CSharp2.deps.json
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\bin\Debug\netcoreapp3.1\publish\BattleArenaDream_CSharp2.runtimeconfig.json
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\bin\Debug\netcoreapp3.1\publish\BattleArenaDream_CSharp2.pdb

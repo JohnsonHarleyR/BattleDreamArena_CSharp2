@@ -1,0 +1,13 @@
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\bin\Debug\netcoreapp3.1\BattleArenaDream_CSharp2.exe
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\bin\Debug\netcoreapp3.1\BattleArenaDream_CSharp2.deps.json
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\bin\Debug\netcoreapp3.1\BattleArenaDream_CSharp2.runtimeconfig.json
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\bin\Debug\netcoreapp3.1\BattleArenaDream_CSharp2.runtimeconfig.dev.json
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\bin\Debug\netcoreapp3.1\BattleArenaDream_CSharp2.dll
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\bin\Debug\netcoreapp3.1\BattleArenaDream_CSharp2.pdb
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\obj\Debug\netcoreapp3.1\BattleArenaDream_CSharp2.csprojAssemblyReference.cache
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\obj\Debug\netcoreapp3.1\BattleArenaDream_CSharp2.AssemblyInfoInputs.cache
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\obj\Debug\netcoreapp3.1\BattleArenaDream_CSharp2.AssemblyInfo.cs
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\obj\Debug\netcoreapp3.1\BattleArenaDream_CSharp2.csproj.CoreCompileInputs.cache
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\obj\Debug\netcoreapp3.1\BattleArenaDream_CSharp2.dll
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\obj\Debug\netcoreapp3.1\BattleArenaDream_CSharp2.pdb
+C:\Users\Business\source\repos\BattleArenaDream_CSharp2\BattleArenaDream_CSharp2\obj\Debug\netcoreapp3.1\BattleArenaDream_CSharp2.genruntimeconfig.cache
