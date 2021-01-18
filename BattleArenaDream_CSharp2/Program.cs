@@ -91,7 +91,7 @@ namespace BattleArenaDream_CSharp2
 				string death = "\nYou have been killed!"; // this is the default unless panic increases to 20
 
 				// this loop will go as long as user has not died and they are not out of turns
-				while (player.IsAlive() == true)
+				while (player.IsAlive())
 				{
 					ShowStats(player, enemy, turns); // show the stats
 
