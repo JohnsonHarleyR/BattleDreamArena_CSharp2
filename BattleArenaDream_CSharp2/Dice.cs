@@ -20,7 +20,7 @@ namespace BattleArenaDream_CSharp2
         // roll the dice
         public void RollDice()
         {
-            diceRoll = random.Next(1, 6);
+            diceRoll = random.Next(1, 7);
             //diceRoll = 5;
         }
 
